@@ -16,8 +16,12 @@ Give your script or AI assistant access to your existing email over IMAP and SMT
 **[majordomo](https://github.com/overseers-desk/majordomo)** *(CLI and MCP)*
 Read Google Chat and report who holds which tasks across spaces and dates, including the Chat-created tasks the Tasks API cannot return.
 
+<hr/>
+
 **[crude](https://github.com/overseers-desk/crude)** *(CLI)*
 CRUD-style command-line clients for your own records on sites without a usable public API, covering ATDW, Skål, Rezdy, Deputy, Sonas, Xero, Airwallex, Clover, and Facebook.
+
+<hr/>
 
 **[questlog](https://github.com/overseers-desk/questlog)** *(CLI and GUI)*
 Find, read, and reopen past Claude Code sessions under `~/.claude/projects`, grouped by project with streamed full-text search.
@@ -34,8 +38,15 @@ Audit and revoke OneDrive sharing across whole folder trees: see who can access 
 **[homebrew-ot](https://github.com/overseers-desk/homebrew-ot)**
 The Homebrew tap that distributes the left side tools (`brew tap overseers-desk/ot`).
 
+<hr/>
+
+**[overseers-desk](https://github.com/overseers-desk/overseers-desk)**
+This repo, a market place for the following Claude Plugin
+
 **[skillbooks](https://github.com/overseers-desk/skillbooks)**
 A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building. **This repository is its marketplace:** `claude plugin marketplace add overseers-desk/overseers-desk`, then `claude plugin install skillbooks@overseers-desk`.
+
+<hr/>
 
 **[Heptad](https://github.com/overseers-desk/Heptad)**
 A seven-level multilingual keyboard layout built on US QWERTY, adding accents, Greek letters, currencies, and math symbols with nothing to unlearn.
