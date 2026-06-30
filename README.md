@@ -31,11 +31,11 @@ Audit and revoke OneDrive sharing across whole folder trees: see who can access 
 </td>
 <td>
 
+**[homebrew-ot](https://github.com/overseers-desk/homebrew-ot)**
+The Homebrew tap that distributes the left side tools (`brew tap overseers-desk/ot`).
+
 **[overseer-toolbox (ot)](https://github.com/overseers-desk/ot)**
 A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building.
-
-**[homebrew-ot](https://github.com/overseers-desk/homebrew-ot)**
-The Homebrew tap that distributes the command-line tools (`brew tap overseers-desk/ot`).
 
 **[Heptad](https://github.com/overseers-desk/Heptad)**
 A seven-level multilingual keyboard layout built on US QWERTY, adding accents, Greek letters, currencies, and math symbols with nothing to unlearn.
