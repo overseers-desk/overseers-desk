@@ -1,4 +1,4 @@
-# Overseer's Desk
+# ![Courier](asset/banner.jpg)
 
 Local-first tools that put you — and your AI — in charge of your own accounts and data. Everything runs on your machine.
 
