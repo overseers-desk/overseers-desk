@@ -41,10 +41,13 @@ The Homebrew tap that distributes the left side tools (`brew tap overseers-desk/
 <hr/>
 
 **[overseers-desk](https://github.com/overseers-desk/overseers-desk)**
-This repo, a market place for the following Claude Plugin
+This repo is the Claude Code marketplace for the plugins below. Add it once: `claude plugin marketplace add overseers-desk/overseers-desk`
 
 **[skillbooks](https://github.com/overseers-desk/skillbooks)**
-A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building. **This repository is its marketplace:** `claude plugin marketplace add overseers-desk/overseers-desk`, then `claude plugin install skillbooks@overseers-desk`.
+A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building. Install: `claude plugin install skillbooks@overseers-desk`
+
+**[holotapes](https://github.com/overseers-desk/holotapes)** *(private)*
+Slash commands for document management, mail, and office workflows. Install: `claude plugin install holotapes@overseers-desk`
 
 <hr/>
 
