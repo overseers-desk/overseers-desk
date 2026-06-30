@@ -1,0 +1,27 @@
+{
+  "name": "overseers-desk",
+  "owner": {
+    "name": "overseers-desk"
+  },
+  "metadata": {
+    "description": "Local-first tools that put you and your AI in charge of your own accounts and data."
+  },
+  "plugins": [
+    {
+      "name": "ot",
+      "source": {
+        "source": "github",
+        "repo": "overseers-desk/ot"
+      },
+      "description": "Skills that drive the user's logged-in browser and site APIs: social, travel and award search, editorial review, research."
+    },
+    {
+      "name": "office",
+      "source": {
+        "source": "github",
+        "repo": "overseers-desk/weiwu"
+      },
+      "description": "Slash commands for document management, mail, and office workflows."
+    }
+  ]
+}
