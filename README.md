@@ -35,7 +35,7 @@ Audit and revoke OneDrive sharing across whole folder trees: see who can access 
 The Homebrew tap that distributes the left side tools (`brew tap overseers-desk/ot`).
 
 **[overseer-toolbox (ot)](https://github.com/overseers-desk/ot)**
-A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building.
+A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, editorial review, and dossier building. **This repository is its marketplace:** `claude plugin marketplace add overseers-desk/overseers-desk`, then `claude plugin install ot@overseers-desk`.
 
 **[Heptad](https://github.com/overseers-desk/Heptad)**
 A seven-level multilingual keyboard layout built on US QWERTY, adding accents, Greek letters, currencies, and math symbols with nothing to unlearn.
@@ -45,5 +45,3 @@ A seven-level multilingual keyboard layout built on US QWERTY, adding accents, G
 </table>
 
 Most command-line tools install from Homebrew (`brew tap overseers-desk/ot`) and as Debian or Fedora packages. See each tool's own README for the platforms it ships on.
-</content>
-</invoke>
