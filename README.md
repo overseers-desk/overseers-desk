@@ -10,16 +10,16 @@ Local-first tools that put you — and your AI — in charge of your own account
 <tr valign="top">
 <td width="50%">
 
-**[courier](https://github.com/overseers-desk/courier)** *(CLI and MCP)* [![PyPI](https://img.shields.io/pypi/v/courier?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/courier/)
+**[courier](https://github.com/overseers-desk/courier)** [![PyPI](https://img.shields.io/pypi/v/courier?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/courier/) *(CLI and MCP)*
 Give your script or AI assistant access to your existing email over IMAP and SMTP: search, read, reply, send, and organise, with sensitive senders kept out of the model's view.
 
-**[majordomo](https://github.com/overseers-desk/majordomo)** *(CLI and MCP)* [![PyPI](https://img.shields.io/pypi/v/majordomo?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/majordomo/)
+**[majordomo](https://github.com/overseers-desk/majordomo)** [![PyPI](https://img.shields.io/pypi/v/majordomo?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/majordomo/) *(CLI and MCP)*
 Read Google Chat and report who holds which tasks across spaces and dates, including the Chat-created tasks the Tasks API cannot return.
 
 <hr/>
 
 **[crude](https://github.com/overseers-desk/crude)** *(CLI)*
-CRUD-style command-line clients for your own records on sites without a usable public API, covering ATDW, Skål, Rezdy, Deputy, Sonas, Xero, Airwallex, Clover, and Facebook.
+CRUD-style command-line clients for your own records on the business services you run on, covering Xero, Airwallex, Clover, Rezdy, Deputy, and Facebook.
 
 <hr/>
 
