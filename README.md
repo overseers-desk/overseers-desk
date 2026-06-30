@@ -58,4 +58,4 @@ A seven-level multilingual keyboard layout built on US QWERTY, adding accents, G
 </tr>
 </table>
 
-Most command-line tools install from Homebrew (`brew tap overseers-desk/od`) and as Debian or Fedora packages; courier also installs from PyPI (`uvx courier`). See each tool's own README for the platforms it ships on.
+Most command-line tools install from Homebrew (`brew tap overseers-desk/od`) and as Debian or Fedora packages; courier and majordomo also install from PyPI (`uvx courier`, `uvx majordomo`). See each tool's own README for the platforms it ships on.
