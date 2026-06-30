@@ -8,18 +8,18 @@
   },
   "plugins": [
     {
-      "name": "ot",
+      "name": "skillbooks",
       "source": {
         "source": "github",
-        "repo": "overseers-desk/ot"
+        "repo": "overseers-desk/skillbooks"
       },
       "description": "Skills that drive the user's logged-in browser and site APIs: social, travel and award search, editorial review, research."
     },
     {
-      "name": "office",
+      "name": "holotapes",
       "source": {
         "source": "github",
-        "repo": "overseers-desk/weiwu"
+        "repo": "overseers-desk/holotapes"
       },
       "description": "Slash commands for document management, mail, and office workflows."
     }
