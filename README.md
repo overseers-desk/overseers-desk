@@ -2,13 +2,13 @@
 
 Local-first tools that put you — and your AI — in charge of your own accounts and data. Everything runs on your machine.
 
-<table>
+<table width="100%">
 <tr>
-<th>For you and your AI</th>
-<th>Meta projects</th>
+<th width="50%">For you and your AI</th>
+<th width="50%">Meta projects</th>
 </tr>
 <tr valign="top">
-<td>
+<td width="50%">
 
 **[mailroom](https://github.com/overseers-desk/mailroom)** *(CLI and MCP)*
 Give your script or AI assistant access to your existing email over IMAP and SMTP: search, read, reply, send, and organise, with sensitive senders kept out of the model's view.
@@ -33,7 +33,7 @@ A hotkey desktop tool that turns your voice or clipboard into text, optionally r
 Audit and revoke OneDrive sharing across whole folder trees: see who can access what, and remove access recursively.
 
 </td>
-<td>
+<td width="50%">
 
 **[homebrew-ot](https://github.com/overseers-desk/homebrew-ot)**
 The Homebrew tap that distributes the left side tools (`brew tap overseers-desk/ot`).
