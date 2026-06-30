@@ -4,13 +4,13 @@ Local-first tools that put you — and your AI — in charge of your own account
 
 <table width="100%">
 <tr>
-<th width="50%">For you and your AI</th>
-<th width="50%">Meta projects</th>
+<th width="50%">Apps</th>
+<th width="50%">Extensions</th>
 </tr>
 <tr valign="top">
 <td width="50%">
 
-**[mailroom](https://github.com/overseers-desk/mailroom)** *(CLI and MCP)*
+**[courier](https://github.com/overseers-desk/courier)** *(CLI and MCP)*
 Give your script or AI assistant access to your existing email over IMAP and SMTP: search, read, reply, send, and organise, with sensitive senders kept out of the model's view.
 
 **[majordomo](https://github.com/overseers-desk/majordomo)** *(CLI and MCP)*
@@ -58,4 +58,4 @@ A seven-level multilingual keyboard layout built on US QWERTY, adding accents, G
 </tr>
 </table>
 
-Most command-line tools install from Homebrew (`brew tap overseers-desk/ot`) and as Debian or Fedora packages. See each tool's own README for the platforms it ships on.
+Most command-line tools install from Homebrew (`brew tap overseers-desk/ot`) and as Debian or Fedora packages; courier also installs from PyPI (`uvx courier`). See each tool's own README for the platforms it ships on.
