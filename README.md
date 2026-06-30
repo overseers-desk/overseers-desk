@@ -10,10 +10,10 @@ Local-first tools that put you — and your AI — in charge of your own account
 <tr valign="top">
 <td width="50%">
 
-**[courier](https://github.com/overseers-desk/courier)** *(CLI and MCP)*
+**[courier](https://github.com/overseers-desk/courier)** *(CLI and MCP)* [![PyPI](https://img.shields.io/pypi/v/courier?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/courier/)
 Give your script or AI assistant access to your existing email over IMAP and SMTP: search, read, reply, send, and organise, with sensitive senders kept out of the model's view.
 
-**[majordomo](https://github.com/overseers-desk/majordomo)** *(CLI and MCP)*
+**[majordomo](https://github.com/overseers-desk/majordomo)** *(CLI and MCP)* [![PyPI](https://img.shields.io/pypi/v/majordomo?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/majordomo/)
 Read Google Chat and report who holds which tasks across spaces and dates, including the Chat-created tasks the Tasks API cannot return.
 
 <hr/>
