@@ -19,7 +19,8 @@
       "name": "holotapes",
       "source": {
         "source": "github",
-        "repo": "overseers-desk/holotapes"
+        "repo": "overseers-desk/holotapes",
+        "ref": "master"
       },
       "description": "Slash commands for document management, mail, and office workflows."
     }
