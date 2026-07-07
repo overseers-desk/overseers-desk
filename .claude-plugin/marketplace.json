@@ -21,7 +21,7 @@
         "source": "github",
         "repo": "overseers-desk/magazines"
       },
-      "description": "Let Claude use the web signed in as you: skills drive your own logged-in browser and site APIs for LinkedIn, Instagram, Facebook, Reddit, travel and award search, plus build-dossier, find-person, and serpapi research commands."
+      "description": "Claude Code skills for unattended web work: read and act on your logged-in sites, return structured tables and source-cited dossiers, from a terminal, a server, or a schedule."
     },
     {
       "name": "holotapes",
