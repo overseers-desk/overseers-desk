@@ -40,6 +40,11 @@ The Homebrew tap that distributes the apps on the left (`brew tap overseers-desk
 
 <hr/>
 
+**[Heptad](https://github.com/overseers-desk/Heptad)**
+A seven-level multilingual keyboard layout built on US QWERTY, adding accents, Greek letters, currencies, and math symbols with nothing to unlearn.
+
+<hr/>
+
 **[overseers-desk](https://github.com/overseers-desk/overseers-desk)**
 This repo is the Claude Code marketplace for the plugins below. Add it once: `claude plugin marketplace add overseers-desk/overseers-desk`
 
@@ -48,11 +53,6 @@ A Claude Code plugin of AI-run skills that drive your logged-in browser or a sit
 
 **[holotapes](https://github.com/overseers-desk/holotapes)** *(private)*
 Slash commands for document management, mail, and office workflows. Install: `claude plugin install holotapes@overseers-desk`
-
-<hr/>
-
-**[Heptad](https://github.com/overseers-desk/Heptad)**
-A seven-level multilingual keyboard layout built on US QWERTY, adding accents, Greek letters, currencies, and math symbols with nothing to unlearn.
 
 </td>
 </tr>
