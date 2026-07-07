@@ -13,7 +13,7 @@
         "source": "github",
         "repo": "overseers-desk/skillbooks"
       },
-      "description": "Editorial and writing skills: cold-read review before you send, Economist-style editing, AI-writing-tell removal, quote-checking, worklogs, PDF rendering."
+      "description": "Put an editor between your AI and the send button: cold-read a draft before you send, edit to Economist style, strip AI-writing tells, quote-check a claim, keep a durable worklog, render markdown to PDF."
     },
     {
       "name": "magazines",
@@ -21,7 +21,7 @@
         "source": "github",
         "repo": "overseers-desk/magazines"
       },
-      "description": "Skills that drive your logged-in browser and site APIs: LinkedIn, Instagram, Facebook, Reddit, travel and award search, plus build-dossier, find-person, and serpapi research."
+      "description": "Let Claude use the web signed in as you: skills drive your own logged-in browser and site APIs for LinkedIn, Instagram, Facebook, Reddit, travel and award search, plus build-dossier, find-person, and serpapi research commands."
     },
     {
       "name": "holotapes",
