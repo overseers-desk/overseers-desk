@@ -13,7 +13,15 @@
         "source": "github",
         "repo": "overseers-desk/skillbooks"
       },
-      "description": "Skills that drive the user's logged-in browser and site APIs: social, travel and award search, editorial review, research."
+      "description": "Editorial and writing skills: cold-read review before you send, Economist-style editing, AI-writing-tell removal, quote-checking, worklogs, PDF rendering."
+    },
+    {
+      "name": "magazines",
+      "source": {
+        "source": "github",
+        "repo": "overseers-desk/magazines"
+      },
+      "description": "Skills that drive your logged-in browser and site APIs: LinkedIn, Instagram, Facebook, Reddit, travel and award search, plus build-dossier, find-person, and serpapi research."
     },
     {
       "name": "holotapes",
