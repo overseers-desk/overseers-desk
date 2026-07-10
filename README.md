@@ -49,7 +49,7 @@ A seven-level multilingual keyboard layout built on US QWERTY, adding accents, G
 This repo is the Claude Code marketplace for the plugins below. Add it once: `claude plugin marketplace add overseers-desk/overseers-desk`
 
 **[skillbooks](https://github.com/overseers-desk/skillbooks)**
-A Claude Code plugin of editorial and writing skills: cold-read a draft before you send, edit to Economist style, strip AI-writing tells, quote-check a claim, keep a worklog, render markdown to PDF. Install: `claude plugin install skillbooks@overseers-desk`
+A Claude Code plugin of general-purpose skills, crafts your agent picks up and keeps: cold-read a draft before you send, edit to Economist style, strip AI-writing tells, quote-check a claim, sweep a codebase for drift and redundant solutions, settle decisions that need nobody woken, keep a worklog, render markdown to PDF. Install: `claude plugin install skillbooks@overseers-desk`
 
 **[magazines](https://github.com/overseers-desk/magazines)**
 A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, plus dossier and person research. Install: `claude plugin install magazines@overseers-desk`
