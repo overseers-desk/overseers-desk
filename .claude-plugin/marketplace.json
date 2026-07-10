@@ -13,7 +13,7 @@
         "source": "github",
         "repo": "overseers-desk/skillbooks"
       },
-      "description": "Put an editor between your AI and the send button: cold-read a draft before you send, edit to Economist style, strip AI-writing tells, quote-check a claim, keep a durable worklog, render markdown to PDF."
+      "description": "Put an editor between your AI and the send button: cold-read a draft before you send, edit to Economist style, strip AI-writing tells, check work written as a role passes as that role, quote-check a claim, keep a durable worklog, render markdown to PDF."
     },
     {
       "name": "magazines",
