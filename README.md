@@ -55,7 +55,7 @@ A Claude Code plugin of editorial and writing skills: cold-read a draft before y
 A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, plus dossier and person research. Install: `claude plugin install magazines@overseers-desk`
 
 **[holotapes](https://github.com/overseers-desk/holotapes)** *(private)*
-Slash commands for document management, mail, and office workflows. Install: `claude plugin install holotapes@overseers-desk`
+The Overseer's personal tapes. Play them and your agent changes: it stops guessing, verifies the cause before it touches the fix, commits as it goes, and writes code that prevents bugs instead of farming them. There is no opt-in screen. Every bad habit it had now has a name, and it hears that name every time. Fair warning before you ask for access: an agent this logical is no fun. Vibe coding on holotapes is like vibe coding with an actuary; every hunch you have gets assigned a ticket number. That is why the tapes are in the locked cabinet. The traditional way to obtain an Overseer's tapes is off his corpse. He would rather you [file an issue to ask for access](https://github.com/overseers-desk/overseers-desk/issues). Install, once granted: `claude plugin install holotapes@overseers-desk`
 
 </td>
 </tr>

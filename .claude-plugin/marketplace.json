@@ -30,7 +30,7 @@
         "repo": "overseers-desk/holotapes",
         "ref": "master"
       },
-      "description": "Slash commands for document management, mail, and office workflows."
+      "description": "The Overseer's personal tapes: the agent stops guessing, verifies before it fixes, prevents bugs instead of farming them. Not opt-in, and no fun at all. Traditionally looted off the Overseer's corpse; he'd rather you file an issue to ask for access."
     }
   ]
 }
