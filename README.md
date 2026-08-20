@@ -29,8 +29,8 @@ Find, read, and reopen past Claude Code sessions under `~/.claude/projects`, gro
 **[scribe](https://github.com/overseers-desk/scribe)** *(CLI and GUI)*
 A hotkey desktop tool that turns your voice or clipboard into text, optionally restyled by an LLM, then types, pastes, or copies the result.
 
-**[OneDrive-ACL-Manager](https://github.com/overseers-desk/OneDrive-ACL-Manager)** *(CLI and GUI)*
-Audit and revoke OneDrive sharing across whole folder trees: see who can access what, and remove access recursively.
+**[warden](https://github.com/overseers-desk/warden)** *(CLI and GUI)*
+Role-based access control for OneDrive and Dropbox, which offer none of their own. One policy file names your people, the groups they belong to and the folders each group may reach; warden holds both drives to it and repairs what drifted.
 
 </td>
 <td width="50%">
