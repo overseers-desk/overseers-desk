@@ -10,6 +10,11 @@ Local-first tools that put you — and your AI — in charge of your own account
 <tr valign="top">
 <td width="50%">
 
+**[robco-term](https://github.com/overseers-desk/robco-term)** *(GUI)*
+The terminal from the vault, made real: amber phosphor behind curved glass, and every machine you reach on its own numbered channel.
+
+<hr/>
+
 **[courier](https://github.com/overseers-desk/courier)** [![PyPI](https://img.shields.io/pypi/v/courier?logo=pypi&logoColor=white&label=PyPI)](https://pypi.org/project/courier/) *(CLI and MCP)*
 Give your script or AI assistant access to your existing email over IMAP and SMTP: search, read, reply, send, and organise, with sensitive senders kept out of the model's view.
 
