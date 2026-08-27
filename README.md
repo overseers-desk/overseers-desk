@@ -60,7 +60,7 @@ Every book read is a stat permanently raised. A Claude Code plugin of crafts you
 A Claude Code plugin of AI-run skills that drive your logged-in browser or a site's API, from LinkedIn and Instagram to award-flight search, plus dossier and person research. Install: `claude plugin install magazines@overseers-desk`
 
 **[holotapes](https://github.com/overseers-desk/holotapes)** *(private)*
-The Overseer's personal tapes. Play them and your agent changes: it stops guessing, verifies the cause before it touches the fix, commits as it goes, and writes code that prevents bugs instead of farming them. There is no opt-in screen. Every bad habit it had now has a name, and it hears that name every time. Fair warning before you ask for access: an agent this logical is no fun. Vibe coding on holotapes is like vibe coding with an actuary; every hunch you have gets assigned a ticket number. That is why the tapes are in the locked cabinet. The traditional way to obtain an Overseer's tapes is off his corpse. He would rather you [file an issue to ask for access](https://github.com/overseers-desk/overseers-desk/issues). Install, once granted: `claude plugin install holotapes@overseers-desk`
+The Overseer's personal tapes for behaviour change to claude agents. There is no opt-in screen. Every bad habit it had now has a name, and it predicts which bad habit will trigger before doing anything, to avoid them. You can loot it over the Overseer's corpse, or [file an issue to ask for access](https://github.com/overseers-desk/overseers-desk/issues).
 
 </td>
 </tr>
